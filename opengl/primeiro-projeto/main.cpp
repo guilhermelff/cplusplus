@@ -1,4 +1,4 @@
-#include <GLFW/glfw3.h>
+#include <C:\Users\Guilherme\Desktop\cplusplus\opengl\primeiro-projeto\libraries\glfw-3.4.bin.WIN64\include\GLFW\glfw3.h>
 
 int main(void)
 {

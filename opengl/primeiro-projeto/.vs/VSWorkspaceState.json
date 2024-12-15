@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\libraries\\glfw-3.4.bin.WIN64",
+    "\\libraries\\glfw-3.4.bin.WIN64\\include",
+    "\\libraries\\glfw-3.4.bin.WIN64\\include\\GLFW"
+  ],
+  "SelectedNode": "\\main.cpp",
+  "PreviewInSolutionExplorer": false
+}
